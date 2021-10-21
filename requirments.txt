@@ -1,0 +1,9 @@
+tensorflow-cpu==2.2.0
+matplotlib
+seaborn
+numpy
+pandas
+PyYAML
+
+## local package installation
+-e .  ## <<< To install local packages defined in setup.py
